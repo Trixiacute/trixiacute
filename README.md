@@ -10,7 +10,7 @@
     <a href="https://github.com/ruri-bot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
   
-  <img src="https://i.imgur.com/hJVv5md.gif](https://i.redd.it/a0crxsy37xme1.gif" alt="Ruri Breathing Fire" width="200px" />
+  <img src="/rurawr.gif" alt="Ruri Breathing Fire" width="200px" />
 </div>
 
 ## 🐉 About Me
