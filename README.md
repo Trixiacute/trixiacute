@@ -82,9 +82,6 @@ MongoDB      ████████░░░░░░░░░░░░░░ 
 JSON         ███████░░░░░░░░░░░░░░░   30.20% 
 ```
 
-<div align="center">
-  <img src="https://i.imgur.com/gI7ZIii.gif" alt="Ruri Sleeping" width="200px" />
-  
   ### "Sometimes I breathe fire when I'm excited... please stand back a little."
   
   <p>Thanks for visiting my dragon's lair! Feel free to reach out or check out my projects!</p>
