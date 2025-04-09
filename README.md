@@ -1,6 +1,6 @@
 <!-- Ruri Dragon Theme GitHub Profile -->
 <div align="center">
-  <img src="[https://i.imgur.com/KJLQj8m.png" alt="Ruri Dragon Banner](https://a.storyblok.com/f/178900/1920x1080/44163ed67d/ruridragon-volume-3-manga-trailer.jpg/m/1200x0/filters:quality(95)format(webp))" width="850px" />
+  <img src="https://a.storyblok.com/f/178900/1920x1080/44163ed67d/ruridragon-volume-3-manga-trailer.jpg/m/1200x0/filters:quality(95)format(webp)" width="850px" />
   
   # <img src="https://i.imgur.com/p0RCnwT.gif" width="30px"> Welcome to my Dragon's Lair <img src="https://i.imgur.com/p0RCnwT.gif" width="30px">
   
