@@ -48,7 +48,7 @@ const ruri = {
     <td width="50%">
       <h3 align="center">Ruri Discord Bot</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.imgur.com/WxNkK7J.png" width="400px" /></a>
+        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.pinimg.com/564x/48/ae/bb/48aebba5b065f185237fab8563fe05fb.jpg" width="400px" /></a>
         <p>A feature-rich Discord bot with anime info, music playback, moderation tools, and much more!</p>
         <p><strong>Technologies Used:</strong> Node.js, Discord.js, MongoDB</p>
       </div>
