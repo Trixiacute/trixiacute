@@ -56,7 +56,7 @@ const ruri = {
     <td width="50%">
       <h3 align="center">Anime Tracker</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://i.imgur.com/ZKBnDmV.png" width="400px" /></a>
+        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/02/RuriDragon-Shonen-Jump-Manga-Masaoki-Shindo.jpg" width="400px" /></a>
         <p>Track your favorite anime shows and get notifications when new episodes are released.</p>
         <p><strong>Technologies Used:</strong> JavaScript, React, MyAnimeList API</p>
       </div>
