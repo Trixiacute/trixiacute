@@ -80,7 +80,7 @@ const profile = {
     <td width="50%">
       <h3 align="center">DaniBunny Tracker</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://i.imgur.com/eprP9JQ.jpeg" width="400px" /></a>
+        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://pbs.twimg.com/media/GBUVosXXwAA64JM.png" width="400px" /></a>
         <p>Track K-pop comebacks, fashion trends, and your favorite anime shows with personalized notifications</p>
         <p><strong>Technologies Used:</strong> React, TypeScript, GraphQL, Spotify API</p>
       </div>
