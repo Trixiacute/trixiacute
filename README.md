@@ -11,7 +11,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   </p>
   
-  <img src="/rurawr.gif" alt="Ruri Breathing Fire" width="720px" />
+  <img src="https://media.tenor.com/JwuKP-wK6FAAAAAe/newjeans-minji.png" alt="Ruri Breathing Fire" width="720px" />
 </div>
 
 ## 🌟 About Me
