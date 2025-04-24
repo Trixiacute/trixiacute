@@ -1,96 +1,127 @@
-<!-- Ruri Dragon Theme GitHub Profile -->
+<!-- NewJeans x Ruri Dragon Theme GitHub Profile -->
 <div align="center">
-  <img src="https://a.storyblok.com/f/178900/1920x1080/44163ed67d/ruridragon-volume-3-manga-trailer.jpg/m/1200x0/filters:quality(95)format(webp)" width="850px" />
+  <img src="https://i.imgur.com/jMQL5Zi.jpeg" width="850px" />
   
-  # <img src="https://i.imgur.com/p0RCnwT.gif" width="30px"> Welcome to my Dragon's Lair <img src="https://i.imgur.com/p0RCnwT.gif" width="30px">
+  # <img src="https://i.imgur.com/p0RCnwT.gif" width="30px"> Welcome to my Coding Bunny Lair <img src="https://i.imgur.com/p0RCnwT.gif" width="30px">
   
   <p>
-    <a href="https://discord.gg/ruribot"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.gg/ruribot"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://twitter.com/ruridragon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://github.com/ruri-bot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/ruri-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   </p>
   
   <img src="/rurawr.gif" alt="Ruri Breathing Fire" width="720px" />
 </div>
 
-## 🐉 About Me
+## 🌟 About Me
 
 ```javascript
-const ruri = {
+const profile = {
   name: "Ruri Dragon",
-  type: "Half-Dragon, Half-Human",
-  specialties: ["Discord Bot Development", "Node.js", "Web Development", "Anime APIs"],
-  interests: ["Music", "Anime", "Gaming", "Breathing fire occasionally"],
-  currentProject: "Enhancing my Discord Bot with more anime and music features",
-  dailyRoutine: "Accidentally burning things when I sneeze"
+  type: "Half-Dragon, Half-Bunny",
+  specialties: ["Full-Stack Development", "Discord Bot Development", "UI/UX Design", "API Integration"],
+  interests: ["K-pop", "NewJeans", "Anime", "Gaming", "Breathing fire occasionally"],
+  currentProject: "Building a NewJeans-inspired music platform with AI recommendations",
+  dailyRoutine: "Coding while listening to 'Attention' and 'Hype Boy' on repeat"
 };
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trixiacute&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trixiacute&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=f7c2e5&icon_color=7180ff&text_color=FFFFFF" />
 </div>
 
-## 🔥 My Tech Stack
+## 💎 My Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+## 🎀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Ruri Discord Bot</h3>
+      <h3 align="center">Bunny Beats Music Bot</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.pinimg.com/564x/48/ae/bb/48aebba5b065f185237fab8563fe05fb.jpg" width="400px" /></a>
-        <p>A feature-rich Discord bot with anime info, music playback, moderation tools, and much more!</p>
-        <p><strong>Technologies Used:</strong> Node.js, Discord.js, MongoDB</p>
+        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.imgur.com/JWjyXEN.jpeg" width="400px" /></a>
+        <p>A NewJeans-inspired Discord bot with K-pop music playback, dance choreography commands, and AI-powered music recommendations</p>
+        <p><strong>Technologies Used:</strong> Node.js, Discord.js, MongoDB, TensorFlow</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Anime Tracker</h3>
+      <h3 align="center">DaniBunny Tracker</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/02/RuriDragon-Shonen-Jump-Manga-Masaoki-Shindo.jpg" width="400px" /></a>
-        <p>Track your favorite anime shows and get notifications when new episodes are released.</p>
-        <p><strong>Technologies Used:</strong> JavaScript, React, MyAnimeList API</p>
+        <a href="https://github.com/trixiacute/anime-tracker"><img src="https://i.imgur.com/eprP9JQ.jpeg" width="400px" /></a>
+        <p>Track K-pop comebacks, fashion trends, and your favorite anime shows with personalized notifications</p>
+        <p><strong>Technologies Used:</strong> React, TypeScript, GraphQL, Spotify API</p>
       </div>
     </td>
   </tr>
 </table>
 
-## 🔮 Current Dragon Activities
+## 🐰 Current Bunny Activities
 
-- 🔭 I'm currently working on **expanding my Discord bot's features**
-- 🌱 I'm currently learning **advanced Discord.js features and AI integration**
-- 🎮 I'm developing **game commands and interactive features**
-- 🎵 I'm improving **Last.fm integration and music recommendations**
-- 🔍 I'm exploring **new APIs for enhanced functionality**
+- 🎧 I'm currently working on **developing a NewJeans-themed music web app**
+- 🌱 I'm currently learning **Rust and WebAssembly for high-performance applications**
+- 🎮 I'm developing **interactive K-pop rhythm games with ML-powered dance recognition**
+- 🎵 I'm improving **Spotify API integration for music mood analysis**
+- 🔍 I'm exploring **AR/VR technologies for immersive K-pop experiences**
 
-## 📊 Weekly Dragon Development Stats
+## 📊 Weekly Coding Stats
 
 ```text
-JavaScript   █████████████████░░░░░   68.25% 
-HTML/CSS     ████████░░░░░░░░░░░░░░   35.12% 
-Node.js      ███████████████░░░░░░░   65.43% 
-MongoDB      ████████░░░░░░░░░░░░░░   34.25% 
-JSON         ███████░░░░░░░░░░░░░░░   30.20% 
+TypeScript     ███████████████████░░░   78.25% 
+Python         ████████████░░░░░░░░░░   55.43% 
+React          ███████████████░░░░░░░   65.12% 
+Node.js        ████████████████░░░░░░   70.43% 
+Rust           ████░░░░░░░░░░░░░░░░░░   20.11%
+TailwindCSS    ██████████░░░░░░░░░░░░   45.76%
+MongoDB        ████████░░░░░░░░░░░░░░   34.25% 
 ```
 
-  ### "Sometimes I breathe fire when I'm excited... please stand back a little."
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3" alt="Spotify Recently Played" />
+</div>
+
+<div align="center">
+  <h3>"Attention! Hype Boy is coding again... please stand back for some pastel-colored magic."</h3>
   
-  <p>Thanks for visiting my dragon's lair! Feel free to reach out or check out my projects!</p>
+  <p>✨ Thanks for visiting my bunny lair! Feel free to reach out or check out my projects! ✨</p>
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+  <img src="https://komarev.com/ghpvc/?username=trixiacute&color=f7c2e5&style=flat-square" alt="Profile Views" />
 </div>
 
 <!-- 
   Image Credits:
-  Ruri Dragon is from the manga "Ruri Dragon" by Masaoki Shindo
-  Animations are custom made or adapted from the manga
--->
+  NewJeans-inspired theme with Ruri Dragon elements
+  Animations are custom made or adapted from NewJeans MVs
+--> 
