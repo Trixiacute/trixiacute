@@ -72,7 +72,7 @@ const profile = {
     <td width="50%">
       <h3 align="center">Bunny Beats Music Bot</h3>
       <div align="center">
-        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.imgur.com/JWjyXEN.jpeg" width="400px" /></a>
+        <a href="https://github.com/trixiacute/ruri-botbeta"><img src="https://i.pinimg.com/736x/d5/62/51/d56251c4491ff9502e509431d716e20a.jpg" width="400px" /></a>
         <p>A NewJeans-inspired Discord bot with K-pop music playback, dance choreography commands, and AI-powered music recommendations</p>
         <p><strong>Technologies Used:</strong> Node.js, Discord.js, MongoDB, TensorFlow</p>
       </div>
