@@ -1,6 +1,6 @@
 <!-- NewJeans x Ruri Dragon Theme GitHub Profile -->
 <div align="center">
-  <img src="https://i.imgur.com/jMQL5Zi.jpeg" width="850px" />
+  <img src="https://wallpapers.com/images/featured/newjeans-aesthetic-30r8oehyc3z2tqyv.jpg" width="850px" />
   
   # <img src="https://i.imgur.com/p0RCnwT.gif" width="30px"> Welcome to my Coding Bunny Lair <img src="https://i.imgur.com/p0RCnwT.gif" width="30px">
   
