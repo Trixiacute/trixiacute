@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://wallpapers.com/images/featured/newjeans-aesthetic-30r8oehyc3z2tqyv.jpg" width="850px" />
   
-  # <img src="https://i.imgur.com/p0RCnwT.gif" width="30px"> Welcome to my Coding Bunny Lair <img src="https://i.imgur.com/p0RCnwT.gif" width="30px">
+  # <img src="" width="30px"> Welcome to my Coding Bunny Lair <img src="" width="30px">
   
   <p>
     <a href="https://discord.gg/ruribot"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
