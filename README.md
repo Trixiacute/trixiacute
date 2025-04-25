@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://wallpapers.com/images/featured/newjeans-aesthetic-30r8oehyc3z2tqyv.jpg" width="850px" />
   
-  # <img src="![image](https://github.com/user-attachments/assets/b8cc0513-b2b0-42cd-bbac-f94742929727)
+  <img src="![image](https://github.com/user-attachments/assets/b8cc0513-b2b0-42cd-bbac-f94742929727)
 " width="30px"> Welcome to my Coding Bunny Lair <img src="![image](https://github.com/user-attachments/assets/aa415a40-7e84-4ba1-9456-471475c6ce18)
 " width="30px">
   
